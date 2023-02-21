@@ -18,38 +18,38 @@ For those who are already familiar with Discord and would like to skip this guid
 
 # Onboarding
 Open the invitation link will lead you to this screen. Please click “join Brainhack.School.Taiwan.” Login or sign up a Discord account to continue.
-![](../../assets/onboarding1.png)
+![](../../assets/discordguide/onboarding1.png)
 
 Our discord server will bring you to #entrance channels. Please input your student ID number and name in the text box and press `enter`.
-![](../../assets/onboarding2.png)
+![](../../assets/discordguide/onboarding2.png)
 
 We will verify your identity (It would take a while ...). If you are granted, you will see secrete channel undet `BrainHack School TW`.
-![](../../assets/onboarding3.png)
+![](../../assets/discordguide/onboarding3.png)
 
 ## Editing avatar
 Please change your username to a name people can identify you, and replace the default profile picture to a nice and unique picture that people can easily recognize.
-![](../../assets/onboarding4.png)
-![](../../assets/onboarding5.png)
-![](../../assets/onboarding6.png)
+![](../../assets/discordguide/onboarding4.png)
+![](../../assets/discordguide/onboarding5.png)
+![](../../assets/discordguide/onboarding6.png)
 
 ## Chaning status
-![](../../assets/onboarding7.png)
+![](../../assets/discordguide/onboarding7.png)
 
 # Notification
-![](../../assets/notification1.png)
-![](../../assets/notification2.png)
-![](../../assets/notification3.png)
+![](../../assets/discordguide/notification1.png)
+![](../../assets/discordguide/notification2.png)
+![](../../assets/discordguide/notification3.png)
 
 # Channels
-![](../../assets/channel1.png)
-![](../../assets/channel2.png)
-![](../../assets/channel3.png)
-![](../../assets/channel4.png)
-![](../../assets/channel5.png)
+![](../../assets/discordguide/channel1.png)
+![](../../assets/discordguide/channel2.png)
+![](../../assets/discordguide/channel3.png)
+![](../../assets/discordguide/channel4.png)
+![](../../assets/discordguide/channel5.png)
 
 # Private message
-![](../../assets/message1.png)
-![](../../assets/message2.png)
+![](../../assets/discordguide/message1.png)
+![](../../assets/discordguide/message2.png)
 
 # Support ticket
 Work in progress
