@@ -11,7 +11,7 @@ We expect each participants have different data analysis experience and differen
 2. Video recorded presentation
 
 {: .note }
-The goal is to learn new skills with the topic related to neuroscience. You can find the projects from past Brainhack School [here](https://school.brainhackmtl.org/project/).
+The goal is to learn new skills with the topic relates to neuroscience. You can find the projects from past Brainhack School [here](https://school.brainhackmtl.org/project/), which might inspire you.
 
 # Project Progress
 
