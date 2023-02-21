@@ -5,6 +5,7 @@ nav_order: 5
 ---
 
 # Modules
+
 {: .important }
 Brainhack School Taiwan have flexible schedule such that students are encouraged to complete modules before the intensive programs in May and June. Some modules have assignment that is not accessible before May, we will prepare substitutive assignments to Taiwan hubs.
 
