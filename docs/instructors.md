@@ -10,7 +10,7 @@ Neuroscience is a thrived field that advanced methodology and creative analysis 
 
 This year, we organized Brainhack school Taiwan hub with experts in National Central University and National Taiwan University, and team up with Brainhack school around the world.
 
-![](../../assets/school.png)
+![](../../assets/school.jpg)
 
 ## Directors
 

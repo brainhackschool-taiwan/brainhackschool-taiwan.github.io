@@ -9,5 +9,7 @@ nav_order: 8
 
 # Open Data
 [NeuroVault](https://neurovault.org/)
+
 [OpenfMRI](https://openfmri.org/)
+
 [EEG-Datasets](https://github.com/meagmohit/EEG-Datasets)
