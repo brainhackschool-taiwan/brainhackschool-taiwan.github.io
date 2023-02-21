@@ -15,7 +15,7 @@ The goal is to learn new skills with the topic related to neuroscience. You can 
 
 # Project Progress
 
-## Pre-course preparation
+## Pre-school preparation
 - You will need to fill a form about your experience on brain data analysis, and keyword your are interesting. This information will help us to arrange TAs that will fit to your interests.
 
 ## Week 1:
