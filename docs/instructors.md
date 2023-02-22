@@ -34,8 +34,12 @@ This year, we organized Brainhack school Taiwan hub with experts in National Cen
 | Amanda Lin      | National Taiwan University  | r11142002 at ntu.edu.tw   |
 | Yu-Shiang Su    | National Taiwan University  | yushiangsu at gmail.com   |
 
+---
+
 ## List of Brainhack School around the world
 list of all brainhack school hubs (TBA)
+
+---
 
 ## Special thanks
 We appriciate Brainhack School Organization team:

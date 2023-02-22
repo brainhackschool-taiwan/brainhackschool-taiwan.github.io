@@ -14,7 +14,7 @@ Student project topics will be determined jointly with the TAs who will provide 
 {: .warning }
 For academic year 2022-2023, National Central University (NCU) will have final-term exams during 2023/05/29 - 2023/06/17, and National Taiwan University (NTU) have final-term exams during 2023/06/05 - 2023/06/09. For students who have foreseen loadings in the period of 4-weeks BrainHack School, we advise you to complete the online modules and initialize your own project before the 4-weeks Brainhack School. During the period of BrainHack school, you would have more flexible schedule that could focus on weekly goals and intermittent interaction with local and international TAs. We expect students and TAs to engage with each other about modules and projects at least **approximately 3 hrs every other day** in this period.
 
-# Discord and Github as the major platforms for this course
+# Discord and Github as the major platforms
 We will use [Discord](https://discord.com/) as local/international communication platforms to post recent announcement, raise questions, share resources, network, and comments tutorials and projects. We will mostly use **Taiwan Discord hub** to serve your needs before and after the Brainhack school. During the 4 weeks of Brainhack school, you should more engage in the **international Discord server** to communicate. **That is, we will have two discord servers, one for Taiwan side issues, another for international communication.** Students also need to signup [Github](https://github.com/) account and create repository for your projects, and submit your final product on the Github repository. Find the Discord and Github guide in [Technical help]({% link docs/technical/technical.md %}).
 
 # Requirement

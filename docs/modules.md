@@ -5,12 +5,22 @@ nav_order: 5
 ---
 
 # Modules
+{: .no_toc }
+
 Brainhack school provide [pre-made tutorial on modules](https://school.brainhackmtl.org/modules/) that is particularly important to neuroscience. For each module, you should follow the tutorial, watch the Youtube clips, and do the exercise. Some modules have further reading resources that provide deeper understanding to related topic. If you have questions or comments about the contents, you can post that on discord server `#modules` channel. You can also share other useful resource on discord server. 
 
 You have to complete 6 modules in week 1, 3 modules in week 2, and 1 module in week 3. Of course, you can complete all the modules. But for students who have limited time, you should choose the modules that is related to your projects. You can post your concerns on the discord server or discuss with TAs to find your direction for picking modules. 
 
 {: .important }
 Brainhack School Taiwan have flexible schedule such that students are encouraged to complete modules before May. Some modules have assignment that is not accessible by that time, we will prepare substitutive assignments to Taiwan hubs. **Sorry! we are still working on this.**
+
+# TOC
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Week 1 (2023/05/08-2023/05/14)
 The modules marked with ⭐ are mandatory. Including the madatory modules, you will be required to complete **6 modules** out of the following list:
@@ -27,6 +37,8 @@ The modules marked with ⭐ are mandatory. Including the madatory modules, you w
 | [Open data](https://school.brainhackmtl.org/modules/open_data)                                     | TBD(will show link if yes) |
 | [Writing scripts in python](https://school.brainhackmtl.org/modules/python_scripts)                | TBD(will show link if yes) |
 
+---
+
 ## Week 2 (2023/05/15-2023/05/21)
 You will be required to complete **3 modules** out of the following list:
 
@@ -40,6 +52,8 @@ You will be required to complete **3 modules** out of the following list:
 | [The Brain Imaging Data Structure (BIDS) ecosystem](https://school.brainhackmtl.org/modules/bids)          | TBD(will show link if yes) |
 | [DataLad for reproducible research data management](https://school.brainhackmtl.org/modules/datalad)       | TBD(will show link if yes) |
 
+---
+
 ## Week 3 (2023/05/22-2023/05/28)
 You will be required to complete **1 module** out of the following list:
 
@@ -50,5 +64,9 @@ You will be required to complete **1 module** out of the following list:
 | [Testing and continuous integration](https://school.brainhackmtl.org/modules/testing)                      | TBD(will show link if yes) |
 | [Containers](https://school.brainhackmtl.org/modules/containers)                                           | TBD(will show link if yes) |
 
+---
+
 ## Week 4 (2023/05/29-2023/06/04)
 Porject Wrap-up. You should concentrate on finalzing project. No module is required to complete.
+
+---
