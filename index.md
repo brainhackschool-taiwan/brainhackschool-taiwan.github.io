@@ -40,8 +40,7 @@ We have no hard restrictions, but backgrounds in cognitive neuroscience and codi
 
 | Week                    | Date                  | Topic                                                                                |
 |------------------------:|:----------------------|:-------------------------------------------------------------------------------------|
-| pre-school preparation  | 2023/02/20-2023/05/07 | Self-study of online 
-modules                                                         |
+| pre-school preparation  | 2023/02/20-2023/05/07 | Self-study of online modules                                                         |
 | Week 1                  | 2023/05/08-2023/05/14 | Discovering the tools (100% tutorials)                                               |
 | Week 2                  | 2023/05/15-2023/05/21 | Think about your project (Keyword based Pod Assignment, 50% tutorial, 50% project)   |
 | Week 3                  | 2023/05/22-2023/05/28 | Implement your project (Assigned to Project Pods and TAs, 25% tutorial, 75% project) |
