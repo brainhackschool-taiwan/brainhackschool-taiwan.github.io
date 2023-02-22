@@ -6,6 +6,22 @@ description:
 permalink: /
 ---
 
+<button class="btn js-toggle-dark-mode">Turn on Dark mode</button>
+
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+jtd.addEvent(toggleDarkMode, 'click', function(){
+  if (jtd.getTheme() === 'dark') {
+    jtd.setTheme('light');
+    toggleDarkMode.textContent = 'Turn on Dark mode';
+  } else {
+    jtd.setTheme('dark');
+    toggleDarkMode.textContent = 'Turn on Light mode';
+  }
+});
+</script>
+
 # Overview
 This course focuses on advanced data preprocessing and analytical techniques for human brain neurophysiological data including electroencephalography/event-related potentials (EEG/ERP), magnetoencephalography (MEG), and structural/functional magnetic resonance imaging (MRI). The course will be conducted in conjunction with 4-weeks long [BrainHack School](https://school.brainhackmtl.org/) (**2023/05/08 - 2023/06/04**). We will use a format that combines **self-paced modules learning** with pre-made tutorial and **project-based practice** with Teaching Assistant (TA) advising. Course students will explore relevant topics in interaction with TAs from various backgrounds in order to conduct a practical project.
 
@@ -37,7 +53,7 @@ We have no hard restrictions, but backgrounds in cognitive neuroscience and codi
 
 # Credit
 You can register one of the following coureses and earn 3 credits if you participate in Brainhack School and complete your project:
-- National Centeral University, [腦影像數據分析專案與實務 Brainhack projects in practice NS5126](https://cis.ncu.edu.tw/Course/main/query/byKeywords?serialNo=27016&outline=27016&semester=1112)
+- National Central University, [腦影像數據分析專案與實務 Brainhack projects in practice NS5126](https://cis.ncu.edu.tw/Course/main/query/byKeywords?serialNo=27016&outline=27016&semester=1112)
 - National Taiwan University, [腦科學技術 Technology of Brain Science GIBMS7005](https://cool.ntu.edu.tw/courses/22213)
 - National Taiwan University, [神經語言學專題研究 Neurolinguistics Seminar LING7430](https://cool.ntu.edu.tw/courses/22938)
 

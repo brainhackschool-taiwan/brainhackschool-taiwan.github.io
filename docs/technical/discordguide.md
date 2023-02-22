@@ -7,11 +7,12 @@ nav_order: 2
 
 For Brainhack school Taiwan, we will have two Discord servers. The Discord server for Taiwan hub is ready for you to join, but the Discord server for international communication is not public until the Brainhack School start. Before the Brainhack School, you could have communication with others in Taiwan hub. And, the channels and rules in Taiwan hub are very similar to international Discord server. When the Brainhack School start and the international discord server open, you would feel easy to migrate to another environment and have great communication with people around the world. 
 
-
+{: .highlight }
+You will get an Discord invitation link on the orientation day. If you missed it, please ask one of [directors]({% link docs/instructors.md %}) to request the invitation link. 
 
 # Onboarding
 Here is some rules that we hope you can followed. 
-1. Get into #entrance channel, and send a message with your student ID number and name. We will verify your identify through this information.
+1. Get into #entrance channel, and send a message with your campus name (NCU or NTU), student ID number, registered course name (NCU NS5126, NTU GIBMS7005, or NTU LING7430), and name. We will verify your identify through this information.
 2. Please change your username to a name by which other can identify you. 
 3. Please add a profile picture to your avatar so that people can easily recognize you in channels.
 4. Please make sure you would get notification whenever new announcements were posted, or someone mentioned you.
@@ -78,6 +79,12 @@ You might want to give response to specific message, use [replay function](https
 ### Polls
 Brainkhack School Taiwan use [EasyPoll Bot](https://easypoll.bot/) to easily create poll with [simple command](https://wiki.easypoll.bot/commands/poll). To create a pool, just type `/poll` and follow the hints to create a poll.
 
+![](../../assets/discordguide/poll1.png)
+
+The poll is created. People can choose options by click the reaction below.
+
+![](../../assets/discordguide/poll2.png)
+
 ## Direct messaging
 You can send peer-to-peer private message in Discord. These messages are independent to the discord server so the servers administrators are not able to see these private message. These message is only visible for you.
 
@@ -87,7 +94,7 @@ You can send peer-to-peer private message in Discord. These messages are indepen
 # Channel Guide
 
 - **ONBOARDING** (Showing at the top of channel list)
-	- entrance: Post your identities here. We will verify your account.
+	- `#entrance`: Post your identities here. We will verify your account.
 - **INFORMATION**
 	- `#welcome-and-rules`: As a community server, we have some rules that people should follow. Check to see the rules.
 	- `#announcement`: We will post the announcement about the course and brainhack school here, please check here regularly.
@@ -97,6 +104,17 @@ You can send peer-to-peer private message in Discord. These messages are indepen
 	- `#off-topic`: Here is place to have a break, post anything your're interesting for socializing with other students and TAs, such as your playlist during hacking or games you like to play.
 	- `#modules`: This is the place to learning modules. You can ask help, comment, or share resource about the learning modules here.
 	- `#help-desk`: If you need advice or help about your project, ask here! TAs will have private discussion with you.
+- **SUPPORT**
+	- `help-ticket`: If you have question about the learning modules or project, you can request a ticket to have privated discussion with a TA.
 
 # Support Guide
-work in progress
+For the learning modules, if you have any question about the tutorial, these might be a common issue for most of people here, we encourage you to first check the `#modules` channel. Students should post your question here to help others that might have similar issues, and you can also help others by answering. 
+
+We're learning how to ask a good question, so don't be afraid to ask question, and try to describe your problem as detailed as possible.  You can tell people  what you already did, and what might be the problem, and provide a screenshot of error message, or codes that can reproduce the problem. Asking question is hard, but please try to do so.
+
+For the projects or the problem that is not able be solved on the channels, you can request a support ticket. This ticket will create a private channel that is only visible to you and TAs. Please describe your what is the help you need, and we will assigned one of TAs to have private discussion about your question. Here is how you request a ticket:
+
+![](../../assets/discordguide/ticket1.png)
+![](../../assets/discordguide/ticket2.png)
+![](../../assets/discordguide/ticket3.png)
+
