@@ -19,13 +19,13 @@ nav_order: 2
 For Brainhack school Taiwan, we will have two Discord servers. The Discord server for Taiwan hub is ready for you to join, but the Discord server for international communication is not public until the Brainhack School start. Before the Brainhack School, you could have communication with others in Taiwan hub. And, the channels and rules in Taiwan hub are very similar to international Discord server. When the Brainhack School start and the international discord server open, you would feel easy to migrate to another environment and have great communication with people around the world. 
 
 {: .highlight }
-You will get an Discord invitation link on the orientation day. If you missed it, please ask one of [directors]({% link docs/instructors.md %}) to request the invitation link. 
+You will get an Discord invitation link on the orientation day. If you missed it, please e-mail one of [directors]({% link docs/instructors.md %}) for invitation link. 
 
 ---
 
 ## Onboarding
 Here is some rules that we hope you can followed. 
-1. Get into #entrance channel, and send a message with your campus name (NCU or NTU), student ID number, registered course name (NCU NS5126, NTU GIBMS7005, or NTU LING7430), and name. We will verify your identify through this information.
+1. Get into `#entrance` channel, and send a message with your campus name (NCU or NTU), student ID number, registered course name (NCU NS5126, NTU GIBMS7005, or NTU LING7430), and your ture name. We will verify your identify through this information.
 2. Please change your username to a name by which other can identify you. 
 3. Please add a profile picture to your avatar so that people can easily recognize you in channels.
 4. Please make sure you would get notification whenever new announcements were posted, or someone mentioned you.
