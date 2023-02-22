@@ -8,9 +8,9 @@ nav_order: 2
 
 ## Brainhack School Taiwan
 
-Neuroscience is a thrived field that advanced methodology and creative analysis continuously renew our understanding of human brain. It is needed to have demanding workshops to learn and practice the cutting-edge analytical techniques. Started from University of Montreal, Brainhack School united interdisciplinary researchers across various countries and campus to organize an intensive program, and help people to learn through project-based practicing.
+Neuroscience is a thriving field that is constantly advancing, with new methodologies and innovative analyses that continuously renew our understanding of the human brain. In order to keep up with the latest cutting-edge analytical techniques, demanding workshops are necessary for learning and practice. The Brainhack School, which originated at the University of Montreal, unites interdisciplinary researchers from various countries and campuses to organize an intensive program that helps people learn through project-based practice.
 
-This year, we organized Brainhack school Taiwan hub with experts in National Central University and National Taiwan University, and team up with Brainhack school around the world.
+This year, we are excited to announce the launch of the Brainhack School Taiwan hub, which will bring together experts from National Central University and National Taiwan University to team up with Brainhack Schools around the world. Through this collaboration, we aim to provide an unparalleled opportunity for participants to enhance their skills and knowledge in the field of neuroscience.
 
 ![](../../assets/school.png)
 
@@ -29,7 +29,7 @@ This year, we organized Brainhack school Taiwan hub with experts in National Cen
 | Ruo-Chi Yao     | National Central University | kireiyvette at gmail.com  |
 | Chih-Chia Hsing | National Taiwan University  | r08454015 at ntu.edu.tw   |
 | Yun-Han Hsu     | National Taiwan University  | r09142006 at ntu.edu.tw   |
-| Huang, Po-Hsuan | National Taiwan University  | r09142003 at ntu.edu.tw   |
+| Po-Hsuan Huang  | National Taiwan University  | r09142003 at ntu.edu.tw   |
 | Yun Chuang      | National Taiwan University  | chuangyun at ntu.edu.tw   |
 | Amanda Lin      | National Taiwan University  | r11142002 at ntu.edu.tw   |
 | Yu-Shiang Su    | National Taiwan University  | yushiangsu at gmail.com   |
@@ -37,7 +37,17 @@ This year, we organized Brainhack school Taiwan hub with experts in National Cen
 ---
 
 ## List of Brainhack School around the world
-list of all brainhack school hubs (TBA)
+NTU/ICNNCU,Taipei/Taoyuan,Taiwan
+Universidad de la Republica,Montevideo,Uruguay
+Humai,Buenos Aires,Argentina
+Polytechnique Montreal,Montreal,Canada
+University of Montreal,Montreal,Canada
+TMU/CAMH,Toronto,Canada
+Université de Paris Cité,Paris,France
+McGill
+Concordia
+Chile
+(To Be Confirmed)
 
 ---
 
