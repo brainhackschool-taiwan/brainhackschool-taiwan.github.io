@@ -17,6 +17,9 @@ nav_order: 1
 | Week 3                  | 2023/05/22-2023/05/28 | Implement your project (Assigned to Project Pods and TAs, 25% tutorial, 75% project) |
 | Week 4                  | 2023/05/29-2023/06/04 | Project wrap-up presentation and communication (100% project)                        |
 
+## Weekly schedule for modules 
+https://school.brainhackmtl.org/weeks/
+
 ## Dates and deadlines for upcoming events
 
 To be announced
