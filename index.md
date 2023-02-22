@@ -58,6 +58,8 @@ modules                                                         |
 
 10%: participation grade for the full 4 weeks
 
+Grades will be jointly determined by the 3 teachers and the involved TA(s) for that student.
+
 # Credit
 You can register one of the following coureses and earn 3 credits if you participate in Brainhack School and complete your project:
 - National Central University, [腦影像數據分析專案與實務 Brainhack projects in practice NS5126](https://cis.ncu.edu.tw/Course/main/query/byKeywords?serialNo=27016&outline=27016&semester=1112)
