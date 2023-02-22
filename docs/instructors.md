@@ -37,17 +37,17 @@ This year, we are excited to announce the launch of the Brainhack School Taiwan 
 ---
 
 ## List of Brainhack School around the world
-NTU/ICNNCU,Taipei/Taoyuan,Taiwan
-Universidad de la Republica,Montevideo,Uruguay
-Humai,Buenos Aires,Argentina
-Polytechnique Montreal,Montreal,Canada
-University of Montreal,Montreal,Canada
-TMU/CAMH,Toronto,Canada
-Université de Paris Cité,Paris,France
-McGill
-Concordia
-Chile
-(To Be Confirmed)
+- NTU/ICNNCU,Taipei/Taoyuan,Taiwan
+- Universidad de la Republica,Montevideo,Uruguay
+- Humai,Buenos Aires,Argentina
+- Polytechnique Montreal,Montreal,Canada
+- University of Montreal,Montreal,Canada
+- TMU/CAMH,Toronto,Canada
+- Université de Paris Cité,Paris,France
+- McGill
+- Concordia
+- Chile
+- (And More To Be Confirmed)
 
 ---
 
