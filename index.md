@@ -31,15 +31,11 @@ We have no hard restrictions, but backgrounds in cognitive neuroscience and codi
 | Week 4                  | 2023/05/29-2023/06/04 | Project wrap-up presentation and communication (100% project)                        |
 
 # Grading
-10%: Completing all required tutorials in weeks 1 to 3.
-
-20%: Each project will be presented orally and in writing, with rounds of feedback, and revised by the end of week 2. 
-
-30%: A short oral presentation on their project at the end of week 4
-
-30%: A written deliverable for their project, which will be published on this website one week after the end of the school
-
-10%: participation grade for the full 4 weeks
+- 10%: Completing all required tutorials in weeks 1 to 3.
+- 20%: Each project will be presented orally and in writing, with rounds of feedback, and revised by the end of week 2. 
+- 30%: A short oral presentation on their project at the end of week 4
+- 30%: A written deliverable for their project, which will be published on this website one week after the end of the school
+- 10%: participation grade for the full 4 weeks
 
 Grades will be jointly determined by the 3 teachers and the involved TA(s) for that student.
 
