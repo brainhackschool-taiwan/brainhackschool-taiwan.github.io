@@ -5,13 +5,21 @@ parent: Technical help
 nav_order: 3
 ---
 
-# Create Github account
+# Github guide
+
+## Create Github account
 Please use the Github official webpage and follow the instruction to signup a account. (It is free!)
 ![](../../assets/githubfrontpage.png)
 
+{: .note }
 P.S. If you are a student or teacher, don't forget to join [Github Global Campus](https://education.github.com/) to get some gift from github.
 
-# Learn to use Github
+## Learn to use Github
 You can learn [how to use github](https://school.brainhackmtl.org/modules/git_github) from one of our learning modules. (It is mandatory)
 
-# Github Project Submission Guide
+## Github Project Submission Guide
+
+work in progress
+{: .label .label-green }
+
+The cotent should be revealed in end of May.
