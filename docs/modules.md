@@ -53,6 +53,7 @@ You will be required to complete **3 modules** out of the following list:
 | [DataLad for reproducible research data management](https://school.brainhackmtl.org/modules/datalad)       | TBD(will show link if yes) |
 |[EEG analysis]             | TBD(will show link if yes)                                                      |
 |[MEG analysis]             | TBD(will show link if yes)                                                      |
+
 ---
 
 ## Week 3 (2023/05/22-2023/05/28)
