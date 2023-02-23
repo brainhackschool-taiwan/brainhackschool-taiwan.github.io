@@ -25,46 +25,46 @@ Brainhack School Taiwan have flexible schedule such that students are encouraged
 ## Week 1 (2023/05/08-2023/05/14)
 The modules marked with ⭐ are mandatory. Including the madatory modules, you will be required to complete **6 modules** out of the following list:
 
-| Modules                                                                                            | substitutive assignment    |
-|:---------------------------------------------------------------------------------------------------|:---------------------------|
-| ⭐[Installation of software](https://school.brainhackmtl.org/modules/installation)                  | TBD(will show link if yes) |
-| ⭐[Introduction to the terminal](https://school.brainhackmtl.org/modules/introduction_to_terminal)  | TBD(will show link if yes) |
-| ⭐[Introduction to git and github](https://school.brainhackmtl.org/modules/git_github)              | TBD(will show link if yes) |
-| [Python for data analysis](https://school.brainhackmtl.org/modules/python_data_analysis)           | TBD(will show link if yes) |
-| [Machine learning - basics](https://school.brainhackmtl.org/modules/machine_learning_basics)       | TBD(will show link if yes) |
-| [Project management](https://school.brainhackmtl.org/modules/project_management)                   | TBD(will show link if yes) |
-| [High performance computing](https://school.brainhackmtl.org/modules/hpc)                          | TBD(will show link if yes) |
-| [Open data](https://school.brainhackmtl.org/modules/open_data)                                     | TBD(will show link if yes) |
-| [Writing scripts in python](https://school.brainhackmtl.org/modules/python_scripts)                | TBD(will show link if yes) |
+| Modules                                                                                            | substitutive assignment    | TA(s)                                      |
+|:---------------------------------------------------------------------------------------------------|:---------------------------|:-------------------------------------------| 
+| ⭐[Installation of software](https://school.brainhackmtl.org/modules/installation)                  | TBD(will show link if yes) | Chih-Chia Hsing, Yu-Shiang Su              |
+| ⭐[Introduction to the terminal](https://school.brainhackmtl.org/modules/introduction_to_terminal)  | TBD(will show link if yes) | Po-Hsuan Huang, Chih-Chia Hsing            |
+| ⭐[Introduction to git and github](https://school.brainhackmtl.org/modules/git_github)              | TBD(will show link if yes) | Amanda Lin, Yun-Han Hsu, Chih-Chia Hsing   |
+| [Python for data analysis](https://school.brainhackmtl.org/modules/python_data_analysis)           | TBD(will show link if yes) | Amanda Lin, Po-Hsuan Huang, Yun Chuang     |
+| [Machine learning - basics](https://school.brainhackmtl.org/modules/machine_learning_basics)       | TBD(will show link if yes) | Ruo-Chi Yao                                |
+| [Project management](https://school.brainhackmtl.org/modules/project_management)                   | TBD(will show link if yes) | Chih-Chia Hsing                            |
+| [High performance computing](https://school.brainhackmtl.org/modules/hpc)                          | TBD(will show link if yes) | Yu-Shiang Su                               |
+| [Open data](https://school.brainhackmtl.org/modules/open_data)                                     | TBD(will show link if yes) | Chih-Chia Hsing                            |
+| [Writing scripts in python](https://school.brainhackmtl.org/modules/python_scripts)                | TBD(will show link if yes) | Amanda Lin, Po-Hsuan Huang, Yun-Han Hsu    |
 
 ---
 
 ## Week 2 (2023/05/15-2023/05/21)
 You will be required to complete **3 modules** out of the following list:
 
-| Modules                                                                                                    | substitutive assignment    |
-|:-----------------------------------------------------------------------------------------------------------|:---------------------------|
-| [Introduction to deep learning](https://school.brainhackmtl.org/modules/deep_learning_intro)               | TBD(will show link if yes) |
-| [Deep learning for neuroimaging](https://school.brainhackmtl.org/modules/dl_for_neuroimaging)              | TBD(will show link if yes) |
-| [Machine learning for neuroimaging](https://school.brainhackmtl.org/modules/machine_learning_neuroimaging) | TBD(will show link if yes) |
-| [Functional connectivity in fMRI](https://school.brainhackmtl.org/modules/fmri_connectivity)               | TBD(will show link if yes) |
-| [Functional parcellations in fMRI](https://school.brainhackmtl.org/modules/fmri_parcellation)              | TBD(will show link if yes) |
-| [The Brain Imaging Data Structure (BIDS) ecosystem](https://school.brainhackmtl.org/modules/bids)          | TBD(will show link if yes) |
-| [DataLad for reproducible research data management](https://school.brainhackmtl.org/modules/datalad)       | TBD(will show link if yes) |
-|[EEG analysis]             | TBD(will show link if yes)                                                      |
-|[MEG analysis]             | TBD(will show link if yes)                                                      |
+| Modules                                                                                                    | substitutive assignment    | TA(s)                                  |
+|:-----------------------------------------------------------------------------------------------------------|:---------------------------|:---------------------------------------|
+| [Introduction to deep learning](https://school.brainhackmtl.org/modules/deep_learning_intro)               | TBD(will show link if yes) | Ding-Ruey Yeh, Ruo-Chi Yao             |
+| [Deep learning for neuroimaging](https://school.brainhackmtl.org/modules/dl_for_neuroimaging)              | TBD(will show link if yes) | Yu-Shiang Su                           |
+| [Machine learning for neuroimaging](https://school.brainhackmtl.org/modules/machine_learning_neuroimaging) | TBD(will show link if yes) | Ruo-Chi Yao                            |
+| [Functional connectivity in fMRI](https://school.brainhackmtl.org/modules/fmri_connectivity)               | TBD(will show link if yes) | Ding-Ruey Yeh, Yun Chuang, Chih-Chia   |
+| [Functional parcellations in fMRI](https://school.brainhackmtl.org/modules/fmri_parcellation)              | TBD(will show link if yes) | Ding-Ruey Yeh                          |
+| [The Brain Imaging Data Structure (BIDS) ecosystem](https://school.brainhackmtl.org/modules/bids)          | TBD(will show link if yes) | Chih-Chia Hsing                        |
+| [DataLad for reproducible research data management](https://school.brainhackmtl.org/modules/datalad)       | TBD(will show link if yes) | Yu-Shiang Su                           |
+|[EEG analysis]             | TBD(will show link if yes)                                                      |                                        |
+|[MEG analysis]             | TBD(will show link if yes)                                                      |                                        |
 
 ---
 
 ## Week 3 (2023/05/22-2023/05/28)
 You will be required to complete **1 module** out of the following list:
 
-| Modules                                                                                                    | substitutive assignment    |
-|:-----------------------------------------------------------------------------------------------------------|:---------------------------|
-| [Data visualization](https://school.brainhackmtl.org/modules/python_visualization)                         | TBD(will show link if yes) |
-| [Python packaging](https://school.brainhackmtl.org/modules/packaging)                                      | TBD(will show link if yes) |
-| [Testing and continuous integration](https://school.brainhackmtl.org/modules/testing)                      | TBD(will show link if yes) |
-| [Containers](https://school.brainhackmtl.org/modules/containers)                                           | TBD(will show link if yes) |
+| Modules                                                                                                    | substitutive assignment    | TA(s)                                  |
+|:-----------------------------------------------------------------------------------------------------------|:---------------------------|:---------------------------------------|
+| [Data visualization](https://school.brainhackmtl.org/modules/python_visualization)                         | TBD(will show link if yes) | Yun Chuang, Yun-Han Hsu, Amanda Lin    |
+| [Python packaging](https://school.brainhackmtl.org/modules/packaging)                                      | TBD(will show link if yes) | Amanda Lin, Po-Hsuan Huang, Yun Chuang |
+| [Testing and continuous integration](https://school.brainhackmtl.org/modules/testing)                      | TBD(will show link if yes) | Yu-Shiang Su                           |
+| [Containers](https://school.brainhackmtl.org/modules/containers)                                           | TBD(will show link if yes) | Yu-Shiang Su                           |
 
 ---
 
