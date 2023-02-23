@@ -51,8 +51,8 @@ You will be required to complete **3 modules** out of the following list:
 | [Functional parcellations in fMRI](https://school.brainhackmtl.org/modules/fmri_parcellation)              | TBD(will show link if yes) |
 | [The Brain Imaging Data Structure (BIDS) ecosystem](https://school.brainhackmtl.org/modules/bids)          | TBD(will show link if yes) |
 | [DataLad for reproducible research data management](https://school.brainhackmtl.org/modules/datalad)       | TBD(will show link if yes) |
-[EEG analysis]             | TBD(will show link if yes)                                                      |
-[MEG analysis]             | TBD(will show link if yes)                                                      |
+|[EEG analysis]             | TBD(will show link if yes)                                                      |
+|[MEG analysis]             | TBD(will show link if yes)                                                      |
 ---
 
 ## Week 3 (2023/05/22-2023/05/28)
