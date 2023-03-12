@@ -27,16 +27,19 @@ There are two prerequisite for following steps:
 
 {:style="counter-reset:none"}
 2. Enable Virtualization in your BIOS setting, we need to check if your BIOS turn on the virtualization function, which is necessary for WSL. There are two ways to check:
-First, click `ctrl+alt+del` then click Task Manager (工作管理員). Navigate to Performance tab, and check if Virtualization in *Enable*. If you cannot find the Virtualization information. Try next step.
+
+* First, click `ctrl+alt+del` then click Task Manager (工作管理員). Navigate to Performance tab, and check if Virtualization in *Enable*. If you cannot find the Virtualization information. Try next step.
 ![](../../assets/windowssetup/01.png)
 
-Please search for powershell and run as administrator (以系統管理員身份執行).
+* Please search for powershell and run as administrator (以系統管理員身份執行).
 ![](../../assets/discordguide/02.png)
 It will open a powershell command-line interface, then input `Get-ComputerInfo -property "HyperV"`. Then, check if “VirtualizationFirmwareEnable” is “True”.
 ![](../../assets/windowssetup/03.png)
 
 {: .note }
 If the Virtualization is “Disable”, you need to go to BIOS setting and turn on the Virtualization function. Depending on your PC vendor or motherboard vendor (ASUS, Acer, Dell, … etc), there are different ways to go to BIOS settings, and the label for the Virtualization function is also different between chipset vendors (AMD or Intel). Thus, we cannot provide a common step-by-step instruction that help you to turn on the Virtualization. You can google your PC or motherboard vendor + chipset vendor + BIOS + Virtualization (e.g. `ASUS Intel Virtualization BIOS`) to find the way to turn on Virtualization. If you have difficulties in this, we would provide hands-on help, and please request the help on our Discord server.
+
+---
 
 ## Windows Subsystem for Linux (WSL)
 1. Please search for powershell and run as administrator (以系統管理員身份執行).
@@ -54,23 +57,26 @@ If the Virtualization is “Disable”, you need to go to BIOS setting and turn 
 ![](../../assets/windowssetup/05.png)
 
 {: .note }
-	- If the previous step did not install anything, there might be a problem on the automatic script to install WSL. You can find manual steps [here](https://learn.microsoft.com/en-us/windows/wsl/install-manual). If you follow the manual installation steps.
+If the previous step did not install anything, there might be a problem on the automatic script to install WSL. You can find manual steps [here](https://learn.microsoft.com/en-us/windows/wsl/install-manual). If you follow the manual installation steps.
 
 {:style="counter-reset:none"}
 4. After rebooting your system, there will a window popped up and tell you that the Ubuntu is installing. After the installation of Ubuntu, a message prompted to ask you input a username, input the username preferred and pressed enter, and then enter password for the username.
 
 ![](../../assets/windowssetup/06.png)
 
-	- If the window is not popped up, search `wsl` and click, you will see the window like above.
-	
-	![](../../assets/windowssetup/07.png)
+* If the window is not popped up, search `wsl` and click, you will see the window like above.	
+
+![](../../assets/windowssetup/07.png)
 
 {:style="counter-reset:none"}
 5. You will see the message to inform you taht the installation is successful, and you can now close the window.
+
 ![](../../assets/windowssetup/09.png)
 
 {:style="counter-reset:none"}
 6. The final step is check if we missed anythin. Please search for powershell and run as administrator again. Then, input `wsl.exe --update`. If you follow the steps, you probably won’t see anything need to update. By this step, the WSL 2 has been successful installed and ready to go.
+
+---
 
 ## CLI (command-line interface)
 For the course, you might see the instruction about “open terminal.” Here we provide two ways to open terminal, and the settings make it works better.
@@ -118,14 +124,20 @@ Microsoft create their own terminal application in recent year. It will provide 
 
 ![](../../assets/windowssetup/17.png)
 
+---
+
 ## VSCode
 Please follow [Brainhack School installation guide](https://school.brainhackmtl.org/modules/installation/) to set up VSCode.
+
+---
 
 ## Python
 Please follow [Brainhack School installation guide](https://school.brainhackmtl.org/modules/installation/) to set up Python.
 
+---
+
 ## Docker
-We will follow the guides from Docker webpage and Microsoft WSL to set up Docker for WSL.
+We will follow the guides from [Docker webpage](https://docs.docker.com/desktop/install/windows-install/) and [Microsoft WSL](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers) to set up Docker for WSL.
 1. Go to the [Docker official website](https://docs.docker.com/desktop/install/windows-install/) and download Docker Desktop. Double click on the installer and run. When you see the configuration, please turn on “Use WSL 2 instead of Hyper-V.” 
 
 ![](../../assets/windowssetup/18.png)
@@ -136,7 +148,7 @@ We will follow the guides from Docker webpage and Microsoft WSL to set up Docker
 ![](../../assets/windowssetup/19.png)
 
 {:style="counter-reset:none"}
-3. When the Docker initialization is done, it might show a tutorial guide. You can skip the guide. We need to set up and make sure Docker is working with WSL. Right click on the bottom Docker icon, and select “Settings”.
+3. When the Docker initialization is done, it might show a tutorial guide. You can skip the tutorial, because we need to first set up and make sure Docker is working with WSL. Right click on the bottom Docker icon, and select “Settings”.
 
 ![](../../assets/windowssetup/20.png)
 
@@ -154,3 +166,5 @@ We will follow the guides from Docker webpage and Microsoft WSL to set up Docker
 6. All the settings are done. We can test if Docker works. Open your terminal for WSL. And input `docker --version`, and then input `docker run hello-world`. If there is no error prompts out, your Docker is ready to work.
 
 ![](../../assets/windowssetup/23.png)
+
+---
