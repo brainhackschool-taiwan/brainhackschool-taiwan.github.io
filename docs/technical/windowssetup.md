@@ -28,7 +28,7 @@ There are two prerequisite for following steps:
 First, click `ctrl+alt+del` then click Task Manager (工作管理員). Navigate to Performance tab, and check if Virtualization in *Enable*. If you cannot find the Virtualization information. Try next step.
 ![](../../assets/windowssetup/01.png)
 
-Please search for powershell and run as administrator ().
+Please search for powershell and run as administrator (以系統管理員身份執行).
 ![](../../assets/discordguide/02.png)
 It will open a powershell command-line interface, then input `Get-ComputerInfo -property "HyperV"`. Then, check if “VirtualizationFirmwareEnable” is “True”.
 ![](../../assets/windowssetup/03.png)
@@ -37,23 +37,28 @@ It will open a powershell command-line interface, then input `Get-ComputerInfo -
 If the Virtualization is “Disable”, you need to go to BIOS setting and turn on the Virtualization function. Depending on your PC vendor or motherboard vendor (ASUS, Acer, Dell, … etc), there are different ways to go to BIOS settings, and the label for the Virtualization function is also different between chipset vendors (AMD or Intel). Thus, we cannot provide a common step-by-step instruction that help you to turn on the Virtualization. You can google your PC or motherboard vendor + chipset vendor + BIOS + Virtualization (e.g. `ASUS Intel Virtualization BIOS`) to find the way to turn on Virtualization. If you have difficulties in this, we would provide hands-on help, and please request the help on our Discord server.
 
 ## Windows Subsystem for Linux (WSL)
-1. Please search for powershell and run as administrator ().
+1. Please search for powershell and run as administrator (以系統管理員身份執行).
+
 ![](../../assets/windowssetup/02.png)
 
 2. Input `wsl --install`. Then your PC will automatically install and set up all the environment for WSL version 2 with default Ubuntu distro.
+
 ![](../../assets/windowssetup/04.png)
 
 3. You will see the screen below if you successfully installed WSL 2 with default Ubuntu distro. And the system need to reboot.
+
 ![](../../assets/windowssetup/05.png)
 
 {: .note }
-If the previous step did not install anything, there might be a problem on the automatic script to install WSL. You can find manual steps here [Manual installation steps for older versions of WSL | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/install-manual). If you follow the manual installation steps.
+	- If the previous step did not install anything, there might be a problem on the automatic script to install WSL. You can find manual steps [here](https://learn.microsoft.com/en-us/windows/wsl/install-manual). If you follow the manual installation steps.
 
-4. After rebooting your system, there will a window popped up and tell you that the Ubuntu is installing. After the installation of Ubuntu, a message prompted to ask you input a username, input the username preferred and pressed enter, and then enter password for the username. 
+4. After rebooting your system, there will a window popped up and tell you that the Ubuntu is installing. After the installation of Ubuntu, a message prompted to ask you input a username, input the username preferred and pressed enter, and then enter password for the username.
+
 ![](../../assets/windowssetup/06.png)
 
-If the window is not popped up, search `wsl` and click, you will see the window like above.
-![](../../assets/windowssetup/07.png)
+	- If the window is not popped up, search `wsl` and click, you will see the window like above.
+	
+	![](../../assets/windowssetup/07.png)
 
 5. You will see the message to inform you taht the installation is successful, and you can now close the window.
 ![](../../assets/windowssetup/09.png)
