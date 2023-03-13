@@ -23,7 +23,7 @@ If you’re using VirtualBox or VMware for your works, there was a problem that 
 
 ## Prerequisite
 There are two prerequisite for following steps:
-1. Your Windows 10, or Windows 11 is updated: the updated wsl and docker required Windows 10 version 21H1 or higher, or Windows 11 21H2 or higher. This steps have been tested on Windows 10 newest version. Please use **Windows Update** to make sure your system is updated.
+1. Your Windows 10, or Windows 11 is updated: the updated wsl and docker required Windows 10 version 21H1 or higher, or Windows 11 21H2 or higher. This steps have been tested on Windows 10 22H2 version. Please use **Windows Update** to make sure your system is updated.
 
 {:style="counter-reset:none"}
 2. Enable Virtualization in your BIOS setting, we need to check if your BIOS turn on the virtualization function, which is necessary for WSL. There are two ways to check:
@@ -42,6 +42,8 @@ If the Virtualization is “Disable”, you need to go to BIOS setting and turn 
 ---
 
 ## Windows Subsystem for Linux (WSL)
+We will install WSL (Windows Subsystem for Linux) with a default Linux distribution in your windows system, and then you can directly use the Linux applications (such as Git) and Bash Command-line tools on windows.
+
 1. Please search for powershell and run as administrator (以系統管理員身份執行).
 
 ![](../../assets/windowssetup/02.png)
