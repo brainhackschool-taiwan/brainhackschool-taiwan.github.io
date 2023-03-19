@@ -2,7 +2,7 @@
 layout: default
 title: Github guide
 parent: Technical help
-nav_order: 3
+nav_order: 4
 ---
 
 # Github guide
