@@ -24,7 +24,8 @@ nav_exclude: true
 
 ## Submission:
 
-- You should write your answers and execute the outcomes as a Jupyter notebook file. You can have separate files or one file for exercises in [SVM](https://main-educational.github.io/brain_encoding_decoding/svm_decoding.html#exercises) and [MLP](https://main-educational.github.io/brain_encoding_decoding/mlp_decoding.html#exercises).
-- Mail your files to Yu-Shiang Su (yushiangsu at gmail.com) or direct message to `@Yu-Shiang Su` on Discord. Please also include your school number and name in the mail or message.
+- You should write your answers and execute the outcomes as a Jupyter notebook file or on Colab. You can have separate files or one file for exercises in [SVM](https://main-educational.github.io/brain_encoding_decoding/svm_decoding.html#exercises) and [MLP](https://main-educational.github.io/brain_encoding_decoding/mlp_decoding.html#exercises).
+- If you would like to submit a Colab link, make sure the Colab is viewable for anyone who have the link.
+- Mail your files or Colab link to brainhackschooltaiwan@gmail.com with the subject title `[bshtw] <Your_Student_ID> Deep learning for neuroimaging` (e.g., `[bshtw] B05202021 Deep learning for neuroimaging`) .
 - Attempts: no limits
 - Points: 0 (fail) / 1 (pass)

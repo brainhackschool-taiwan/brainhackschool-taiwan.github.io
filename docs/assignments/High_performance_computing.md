@@ -17,11 +17,12 @@ nav_exclude: true
 - Again, please note that the hands-on tutorial in this module is not accessible in Taiwan. We don’t recommend to complete this module for beginners. If you’re very interesting on high-performance computing, you can still grasp a concept of high performance computing in this module.
 - Go to the [module page](https://school.brainhackmtl.org/modules/hpc/) and watch the video.
 - Copy and paste the following question in a text file (`*.txt`, `*.md`) or Mircosoft Word (`*.docx`). 
+
 ```
 1. (0.2 points) What you can do for high-performance computing?
 	a. Supercomputers/clusters will always dramatically run faster than your laptop.
 	b. You have permission to directly install the software that is needed for your analysis.
-	c. You can execute analysis job that have intensive usage of computing resources.
+	c. You can execute analysis job that have intensive but reasonable usage of computing resources.
 	d. Supercomputers/clusters will execute my analysis job whenever I ask them to do.
 
 Your answer:
@@ -36,7 +37,7 @@ Your answer:
 Your answer:
 
 ---
-3. (0.2 points) Which command is important to access the required software for your job?
+3. (0.2 points) Which command is important to access the required software for your job when you submit job to a supercomputer?
 	a. module
 	b. import
 	c. library
@@ -60,6 +61,7 @@ Your answer:
 
 ---
 ```
+
 - Write you answer to each questions and save the file. Follow the below steps to submit your files 
 
 ## Submission:
