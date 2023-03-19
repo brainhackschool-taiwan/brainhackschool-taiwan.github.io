@@ -29,7 +29,7 @@ nav_exclude: true
  	python-version: 3.7
 ```
 
-	- add the following step to install the dependancies :
+  - add the following step to install the dependancies :
 
 ```
 # Pip install the required packages
@@ -37,7 +37,7 @@ nav_exclude: true
   run: pip install -r requirements.txt
 ```
 
-	- Run the test script :
+  - Run the test script :
 
 ```
 # Run the test script

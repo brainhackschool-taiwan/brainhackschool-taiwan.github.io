@@ -20,7 +20,7 @@ nav_exclude: true
 ## Submission:
 
 - You should write down your answers in a saved doc.
-- Mail your file to brainhackschooltaiwan@gmail.com. Please also include [BHSTW] your school number and the name of modules in the subject line.
+- Mail your file to brainhackschooltaiwan@gmail.com. Please also include **[BHSTW] your school number and the name of modules in the subject line**.
 - Attempts: no limits
 - Points: 0 (fail) / 1 (pass)
 
