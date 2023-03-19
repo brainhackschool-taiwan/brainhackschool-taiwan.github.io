@@ -33,7 +33,7 @@ The modules marked with ⭐ are mandatory. Including the madatory modules, you w
 | [Python for data analysis](https://school.brainhackmtl.org/modules/python_data_analysis)           | [Exercise]({% link docs/assignments/Python_for_data_analysis.md %}) | Amanda Lin, Po-Hsuan Huang, Yun Chuang     |
 | [Machine learning - basics](https://school.brainhackmtl.org/modules/machine_learning_basics)       | [Exercise]({% link docs/assignments/Machine_learning_basics.md %}) | Ruo-Chi Yao                                |
 | [Project management](https://school.brainhackmtl.org/modules/project_management)                   | TBD(will show link if yes) | Chih-Chia Hsing                            |
-| [High performance computing](https://school.brainhackmtl.org/modules/hpc)                          | TBD(will show link if yes) | Yu-Shiang Su                               |
+| [High performance computing](https://school.brainhackmtl.org/modules/hpc)                          | [Exercise]({% link docs/assignments/High_performance_computing.md %}) | Yu-Shiang Su                               |
 | [Open data](https://school.brainhackmtl.org/modules/open_data)                                     | TBD(will show link if yes) | Chih-Chia Hsing                            |
 | [Writing scripts in python](https://school.brainhackmtl.org/modules/python_scripts)                | [Exercise]({% link docs/assignments/Writing_scripts_in_python.md %}) | Amanda Lin, Po-Hsuan Huang, Yun-Han Hsu    |
 
@@ -48,7 +48,7 @@ You will be required to complete **3 modules** out of the following list:
 | [Deep learning for neuroimaging](https://school.brainhackmtl.org/modules/dl_for_neuroimaging)              | [Exercise]({% link docs/assignments/Deep_learning_for_neuroimaging.md %}) | Yu-Shiang Su                           |
 | [Machine learning for neuroimaging](https://school.brainhackmtl.org/modules/machine_learning_neuroimaging) | [Exercise]({% link docs/assignments/Machine_learning_for_neuroimaging.md %}) | Ruo-Chi Yao                            |
 | [Functional connectivity in fMRI](https://school.brainhackmtl.org/modules/fmri_connectivity)               | [Exercise]({% link docs/assignments/Functional_connectivity_in_fMRI.md %}) | Ding-Ruey Yeh, Yun Chuang, Chih-Chia   |
-| [Functional_parcellations_in_fMRI](https://school.brainhackmtl.org/modules/fmri_parcellation)              | [Exercise]({% link docs/assignments/Deep_learning_for neuroimaging.md %}) | Ding-Ruey Yeh                          |
+| [Functional_parcellations_in_fMRI](https://school.brainhackmtl.org/modules/fmri_parcellation)              | [Exercise]({% link docs/assignments/Deep_learning_for_neuroimaging.md %}) | Ding-Ruey Yeh                          |
 | [The Brain Imaging Data Structure (BIDS) ecosystem](https://school.brainhackmtl.org/modules/bids)          | TBD(will show link if yes) | Chih-Chia Hsing                        |
 | [DataLad for reproducible research data management](https://school.brainhackmtl.org/modules/datalad)       | TBD(will show link if yes) | Yu-Shiang Su                           |
 |[EEG analysis]             | TBD(will show link if yes)                                                      |                                        |
