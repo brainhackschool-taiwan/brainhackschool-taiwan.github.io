@@ -28,13 +28,13 @@ The modules marked with ⭐ are mandatory. Including the madatory modules, you w
 | Modules                                                                                            |             assignment    | TA(s)                                      |
 |:---------------------------------------------------------------------------------------------------|:---------------------------|:-------------------------------------------| 
 | ⭐[Installation of software](https://school.brainhackmtl.org/modules/installation)                  | [Exercise]({% link docs/assignments/Installation_of_software.md %}) | Chih-Chia Hsing, Yu-Shiang Su              |
-| ⭐[Introduction to the terminal](https://school.brainhackmtl.org/modules/introduction_to_terminal)  | TBD(will show link if yes) | Po-Hsuan Huang, Chih-Chia Hsing            |
+| ⭐[Introduction to the terminal](https://school.brainhackmtl.org/modules/introduction_to_terminal)  | TBD | Po-Hsuan Huang, Chih-Chia Hsing            |
 | ⭐[Introduction to git and github](https://school.brainhackmtl.org/modules/git_github)              | [Exercise]({% link docs/assignments/Introduction_to_git_and_github.md %}) | Amanda Lin, Yun-Han Hsu, Chih-Chia Hsing   |
 | [Python for data analysis](https://school.brainhackmtl.org/modules/python_data_analysis)           | [Exercise]({% link docs/assignments/Python_for_data_analysis.md %}) | Amanda Lin, Po-Hsuan Huang, Yun Chuang     |
 | [Machine learning - basics](https://school.brainhackmtl.org/modules/machine_learning_basics)       | [Exercise]({% link docs/assignments/Machine_learning_basics.md %}) | Ruo-Chi Yao                                |
-| [Project management](https://school.brainhackmtl.org/modules/project_management)                   | TBD(will show link if yes) | Chih-Chia Hsing                            |
+| [Project management](https://school.brainhackmtl.org/modules/project_management)                   | TBD | Chih-Chia Hsing                            |
 | [High performance computing](https://school.brainhackmtl.org/modules/hpc)                          | [Exercise]({% link docs/assignments/High_performance_computing.md %}) | Yu-Shiang Su                               |
-| [Open data](https://school.brainhackmtl.org/modules/open_data)                                     | TBD(will show link if yes) | Chih-Chia Hsing                            |
+| [Open data](https://school.brainhackmtl.org/modules/open_data)                                     | TBD | Chih-Chia Hsing                            |
 | [Writing scripts in python](https://school.brainhackmtl.org/modules/python_scripts)                | [Exercise]({% link docs/assignments/Writing_scripts_in_python.md %}) | Amanda Lin, Po-Hsuan Huang, Yun-Han Hsu    |
 
 ---
@@ -49,10 +49,10 @@ You will be required to complete **3 modules** out of the following list:
 | [Machine learning for neuroimaging](https://school.brainhackmtl.org/modules/machine_learning_neuroimaging) | [Exercise]({% link docs/assignments/Machine_learning_for_neuroimaging.md %}) | Ruo-Chi Yao                            |
 | [Functional connectivity in fMRI](https://school.brainhackmtl.org/modules/fmri_connectivity)               | [Exercise]({% link docs/assignments/Functional_connectivity_in_fMRI.md %}) | Ding-Ruey Yeh, Yun Chuang, Chih-Chia   |
 | [Functional_parcellations_in_fMRI](https://school.brainhackmtl.org/modules/fmri_parcellation)              | [Exercise]({% link docs/assignments/Deep_learning_for_neuroimaging.md %}) | Ding-Ruey Yeh                          |
-| [The Brain Imaging Data Structure (BIDS) ecosystem](https://school.brainhackmtl.org/modules/bids)          | TBD(will show link if yes) | Chih-Chia Hsing                        |
+| [The Brain Imaging Data Structure (BIDS) ecosystem](https://school.brainhackmtl.org/modules/bids)          | TBD | Chih-Chia Hsing                        |
 | [DataLad for reproducible research data management](https://school.brainhackmtl.org/modules/datalad)       | [Exercise]({% link docs/assignments/DataLad_for_reproducible_research_data_management.md %}) | Yu-Shiang Su                           |
-|[EEG analysis]             | TBD(will show link if yes)                                                      |                                        |
-|[MEG analysis]             | TBD(will show link if yes)                                                      |                                        |
+|[EEG analysis]             | TBD                                                      |                                        |
+|[MEG analysis]             | TBD                                                      |                                        |
 
 ---
 

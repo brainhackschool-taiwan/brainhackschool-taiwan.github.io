@@ -19,7 +19,8 @@ nav_exclude: true
 
 ## Submission:
 
-- You should write your answers and execute the outcomes as a Jupyter notebook file. You can have separate files or one file for exercises in [SVM](https://main-educational.github.io/brain_encoding_decoding/svm_decoding.html#exercises) and [MLP](https://main-educational.github.io/brain_encoding_decoding/mlp_decoding.html#exercises).
-- Mail your files to Yu-Shiang Su (yushiangsu at gmail.com) or direct message to `@Yu-Shiang Su` on Discord. Please also include your school number and name in the mail or message.
+- You should write down your answers in a saved doc.
+- Mail your file to brainhackschooltaiwan@gmail.com. Please also include [BHSTW] your school number and the name of modules in the subject line.
 - Attempts: no limits
 - Points: 0 (fail) / 1 (pass)
+

@@ -22,6 +22,6 @@ nav_exclude: true
 ## Submission:
 
 - You should write your answer and execute the outcome as a Colab notebook or Jupyter notebook file.
-- Mail your link or file to brainhackschooltaiwan@gmail.com. Please also include [BHSTW] your school number and the name of modules in the subject line.
+- Mail your link or file to brainhackschooltaiwan@gmail.com. Please also include **[BHSTW] your school number and the name of modules in the subject line**.
 - Attempts: no limits
 - Points: 0 (fail) / 1 (pass)
