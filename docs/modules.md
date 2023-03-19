@@ -2,7 +2,6 @@
 layout: default
 title: Modules
 nav_order: 5
-permalink: /docs/module
 ---
 
 # Modules

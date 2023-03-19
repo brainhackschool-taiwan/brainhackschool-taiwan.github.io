@@ -18,7 +18,7 @@ nav_order: 1
 | Week 4                  | 2023/05/29-2023/06/04 | Project wrap-up presentation and communication (100% project)                        |
 
 ## Weekly schedule for modules 
-You can find the schedule for the modules [here]({% link docs/modules/modules.md %}) and [here](https://school.brainhackmtl.org/weeks/).
+You can find the schedule for the modules [here]({% link docs/modules.md %}) and [here](https://school.brainhackmtl.org/weeks/).
 
 ## Dates and deadlines for upcoming events
 
