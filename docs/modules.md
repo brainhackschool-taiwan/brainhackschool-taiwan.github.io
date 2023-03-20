@@ -48,7 +48,7 @@ You will be required to complete **3 modules** out of the following list:
 | [Deep learning for neuroimaging](https://school.brainhackmtl.org/modules/dl_for_neuroimaging)              | [Exercise]({% link docs/assignments/Deep_learning_for_neuroimaging.md %}) | Yu-Shiang Su                           |
 | [Machine learning for neuroimaging](https://school.brainhackmtl.org/modules/machine_learning_neuroimaging) | [Exercise]({% link docs/assignments/Machine_learning_for_neuroimaging.md %}) | Ruo-Chi Yao                            |
 | [Functional connectivity in fMRI](https://school.brainhackmtl.org/modules/fmri_connectivity)               | [Exercise]({% link docs/assignments/Functional_connectivity_in_fMRI.md %}) | Ding-Ruey Yeh, Yun Chuang, Chih-Chia   |
-| [Functional_parcellations_in_fMRI](https://school.brainhackmtl.org/modules/fmri_parcellation)              | [Exercise]({% link docs/assignments/Functional_parcellations_in_fMRI.md %}) | Ding-Ruey Yeh                          |
+| [Functional parcellations in fMRI](https://school.brainhackmtl.org/modules/fmri_parcellation)              | [Exercise]({% link docs/assignments/Functional_parcellations_in_fMRI.md %}) | Ding-Ruey Yeh                          |
 | [The Brain Imaging Data Structure (BIDS) ecosystem](https://school.brainhackmtl.org/modules/bids)          | TBD | Chih-Chia Hsing                        |
 | [DataLad for reproducible research data management](https://school.brainhackmtl.org/modules/datalad)       | [Exercise]({% link docs/assignments/DataLad_for_reproducible_research_data_management.md %}) | Yu-Shiang Su                           |
 |[EEG analysis]             | TBD                                                      |                                        |
