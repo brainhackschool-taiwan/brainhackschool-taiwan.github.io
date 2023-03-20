@@ -15,7 +15,7 @@ nav_exclude: true
 ## Instructions:
 
 - On the GitHub page, create a public repository named `<your_name>_project` (e.g., `Amanda_Lin_project`), and initialize it with a `README` and `LICENSE` file.
-- In your terminal, create an issue for adding a short bio.
+- If you have CLI installed, you can now clone the repository to your local computer and create an issue remotely in your terminal with `gh issue create --title "your title" --body "content"`. If not, stay on the GitHub page and create an issue.
 - Clone your GitHub repository to your local computer, then create a branch named `iss1`.
 - In the terminal, add a short bio to the README, which should include an image of your GitHub profile picture. Hint: You can adapt this code snippet, but please note that certain lines need changing, e.g., the username, obviously!
 ```
