@@ -28,7 +28,7 @@ The modules marked with ⭐ are mandatory. Including the madatory modules, you w
 | Modules                                                                                            |             assignment    | TA(s)                                      |
 |:---------------------------------------------------------------------------------------------------|:---------------------------|:-------------------------------------------| 
 | ⭐[Installation of software](https://school.brainhackmtl.org/modules/installation)                  | [Exercise]({% link docs/assignments/Installation_of_software.md %}) | Chih-Chia Hsing, Yu-Shiang Su              |
-| ⭐[Introduction to the terminal](https://school.brainhackmtl.org/modules/introduction_to_terminal)  | TBD | Po-Hsuan Huang, Chih-Chia Hsing            |
+| ⭐[Introduction to the terminal](https://school.brainhackmtl.org/modules/introduction_to_terminal)  | [Exercise]({% link docs/assignments/Introduction_to_the_terminal.md %}) | Po-Hsuan Huang, Chih-Chia Hsing            |
 | ⭐[Introduction to git and github](https://school.brainhackmtl.org/modules/git_github)              | [Exercise]({% link docs/assignments/Introduction_to_git_and_github.md %}) | Amanda Lin, Yun-Han Hsu, Chih-Chia Hsing   |
 | [Python for data analysis](https://school.brainhackmtl.org/modules/python_data_analysis)           | [Exercise]({% link docs/assignments/Python_for_data_analysis.md %}) | Amanda Lin, Po-Hsuan Huang, Yun Chuang     |
 | [Machine learning - basics](https://school.brainhackmtl.org/modules/machine_learning_basics)       | [Exercise]({% link docs/assignments/Machine_learning_basics.md %}) | Ruo-Chi Yao                                |

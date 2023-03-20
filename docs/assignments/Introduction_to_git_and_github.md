@@ -34,7 +34,7 @@ nav_exclude: true
 - Well, you should have quite a bit of commands in your terminal by this point. Please copy and paste EVERYTHING in the terminal — starting from the very first line when you began doing this exercise and including the outputs — to a text file `<your_name>.txt`. Don't worry if you got some errors in your terminal; the TAs will fish out the working commands.
 - Send an email with the subject title `[bshtw] <Your_Student_ID> Introduction to git and github` (e.g., `[bshtw] B05202021 Introduction to git and github`) to brainhackschooltaiwan@gmail.com, where the student ID should have all English letters capitalized, and the module name should be precisely the same as the example, with only the first letter of the first word capitalized. The aforementioned `<your_name>.txt` file should be attached to your email.
 - You will receive an email reply titled `Receipt of submission` about 30 minutes after your submission email has been sent. This email will notify you whether your files have been successfully uploaded.
-- Please contact `Amanda Lin #5919` on Discord if your submission email keeps failing.
+- Please contact `Amanda Lin #5919` or `Ki #1892` on Discord if your submission email keeps failing.
 
 ## Grading:
 
