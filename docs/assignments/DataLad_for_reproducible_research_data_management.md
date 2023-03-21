@@ -25,6 +25,6 @@ nav_exclude: true
 ## Submission:
 
 - You should have a text file (`*.txt`).
-- Please send an email to brainhackschooltaiwan@gmail.com with the subject title `[bshtw] <Your_Student_ID> DataLad for reproducible research data management` (e.g., `[bshtw] B05202021 DataLad for reproducible research data management`) 
+- Please send an email to brainhackschooltaiwan@gmail.com with the subject title `[BHSTW] <Your_Student_ID> DataLad for reproducible research data management` (e.g., `[BHSTW] B05202021 DataLad for reproducible research data management`) 
 - Attempts: no limits. You can submit again if you don't stastify your scores.
 - Points: 0 (fail) / 1 (pass) point.

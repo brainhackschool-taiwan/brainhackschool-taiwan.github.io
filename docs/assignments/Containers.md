@@ -23,6 +23,6 @@ nav_exclude: true
 ## Submission:
 
 - You should have a picture file (`*.jpg`, `*.png`, ... etc).
-- Please send an email to brainhackschooltaiwan@gmail.com with the subject title `[bshtw] <Your_Student_ID> Containers` (e.g., `[bshtw] B05202021 Containers`) 
+- Please send an email to brainhackschooltaiwan@gmail.com with the subject title `[BHSTW] <Your_Student_ID> Containers` (e.g., `[BHSTW] B05202021 Containers`) 
 - Attempts: no limits
 - Points: 0 (fail) / 1 (pass)

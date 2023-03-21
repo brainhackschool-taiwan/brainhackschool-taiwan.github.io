@@ -73,7 +73,7 @@ and use `my_super_secret_key` as the key to **decrypt** the message.
     ```
     + the decrypted results of that message
 - **Add brainhackschooltaiwan@gmail.com as an Editor of your entire `<Student_ID>_python_packaging` folder (we must be added, otherwise your email will fail to be uploaded to our Google Drive system)**, then get the link to your folder.
-- Send an email with the subject title `[bshtw] <Your_Student_ID> Writing scripts in python` (e.g., `[bshtw] B05202021 Writing cripts in python`) to brainhackschooltaiwan@gmail.com, where the student ID should have all English letters capitalized, and the module name should be precisely the same as the example, with only the first letter of the first word capitalized. The link to your folder should be pasted in the email body
+- Send an email with the subject title `[BHSTW] <Your_Student_ID> Writing scripts in python` (e.g., `[BHSTW] B05202021 Writing cripts in python`) to brainhackschooltaiwan@gmail.com, where the student ID should have all English letters capitalized, and the module name should be precisely the same as the example, with only the first letter of the first word capitalized. The link to your folder should be pasted in the email body
 - You will receive an email reply titled `Receipt of submission` about 30 minutes after your submission email has been sent. This email will notify you whether your files have been successfully uploaded
 - Please contact `Amanda Lin #5919` on Discord if your submission email keeps failing.
 

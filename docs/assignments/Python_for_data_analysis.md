@@ -39,7 +39,7 @@ from sklearn.datasets import load_iris
 ## Assignment Submission:
 
 - Head to Google Collaboratory and upload your Jupyter notebook onto Google Colab. Name the `ipynb` file as `Python for data analysis`. Click Share at the top right of the window, **add brainhackschooltaiwan@gmail.com as an Editor (we must be added, otherwise your email will fail to be uploaded to our Google Drive system)**, and copy the link. An example of a "toy" Google colab notebook is at this link https://colab.research.google.com/drive/132VeOFToryeLkZaWVFLikShG1ECxaGDn?usp=share_link
-- Send an email with the subject title `[bshtw] <Your_Student_ID> Python for data analysis` (e.g., `[bshtw] B05202021 Python for data analysis`) to brainhackschooltaiwan@gmail.com, where the student ID should have all English letters capitalized, and the module name should be precisely the same as the example, with only the first letter of the first word capitalized. The link to your Colab notebook should be pasted in the email body.
+- Send an email with the subject title `[BHSTW] <Your_Student_ID> Python for data analysis` (e.g., `[BHSTW] B05202021 Python for data analysis`) to brainhackschooltaiwan@gmail.com, where the student ID should have all English letters capitalized, and the module name should be precisely the same as the example, with only the first letter of the first word capitalized. The link to your Colab notebook should be pasted in the email body.
 - You will receive an email reply titled `Receipt of submission` about 30 minutes after your submission email has been sent. This email will notify you whether your files have been successfully uploaded.
 - Please contact `Amanda Lin #5919` on Discord if your submission email keeps failing.
 

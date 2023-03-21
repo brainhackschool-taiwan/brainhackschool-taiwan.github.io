@@ -26,7 +26,7 @@ nav_exclude: true
 ## Submission:
 
 - You should write your answer and execute the outcome as a Colab notebook or Jupyter notebook file.
-- Mail your files to brainhackschooltaiwan@gmail.com or direct message to @dingruey88 on Discord. Please also include [bhstw], your school number, and module name in the mail subject, such as `[bshtw] B12202321 Functional parcellations in fMRI`.
+- Mail your files to brainhackschooltaiwan@gmail.com or direct message to @dingruey88 on Discord. Please also include [BHSTW], your school number, and module name in the mail subject, such as `[BHSTW] B12202321 Functional parcellations in fMRI`.
 - Attempts: no limits
 - Points: 0 (fail) / 1 (pass)
 

@@ -67,6 +67,6 @@ Your answer:
 ## Submission:
 
 - You should have a text file (`*.txt`, `*.md`) or Mircosoft Word (`*.docx`).
-- Please send an email to brainhackschooltaiwan@gmail.com with the subject title `[bshtw] <Your_Student_ID> Data visualization` (e.g., `[bshtw] B05202021 High performance computing`) 
+- Please send an email to brainhackschooltaiwan@gmail.com with the subject title `[BHSTW] <Your_Student_ID> Data visualization` (e.g., `[BHSTW] B05202021 High performance computing`) 
 - Attempts: no limits. You can submit again if you don't stastify your scores.
 - Points: 0-1 points.

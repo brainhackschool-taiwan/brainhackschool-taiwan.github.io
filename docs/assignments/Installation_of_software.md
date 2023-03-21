@@ -23,6 +23,6 @@ nav_exclude: true
 ## Submission:
 
 - You should have a picture file (`*.jpg`, `*.png`, ... etc).
-- Please send an email to brainhackschooltaiwan@gmail.com with the subject title `[bshtw] <Your_Student_ID> Installation of software` (e.g., `[bshtw] B05202021 Installation of software`) 
+- Please send an email to brainhackschooltaiwan@gmail.com with the subject title `[BHSTW] <Your_Student_ID> Installation of software` (e.g., `[BHSTW] B05202021 Installation of software`) 
 - Attempts: no limits. TAs will help you to make sure your intallation is successfully completed.
 - Points: 0 (fail) / 1 (pass) point.

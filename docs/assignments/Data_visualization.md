@@ -42,7 +42,7 @@ nav_exclude: true
 
 - This exercise should be submitted via a Google Colab notebook link. 
 - To share your Colab notebook, simply click on the SHARE button at the top right to get a shareable link. You can select either the commenter or editor option in order for the TAs to grade your work.
-- After it's all set, please send an email with the subject title `[bshtw] <Your_Student_ID> Data visualization` (e.g., `[bshtw] B05202021 Data visualization`) to brainhackschooltaiwan@gmail.com, where the student ID should have all English letters capitalized, and the module name should be precisely the same as the example, with only the first letter of the first word capitalized. The link to your Colab notebook should be pasted in the email body.
+- After it's all set, please send an email with the subject title `[BHSTW] <Your_Student_ID> Data visualization` (e.g., `[BHSTW] B05202021 Data visualization`) to brainhackschooltaiwan@gmail.com, where the student ID should have all English letters capitalized, and the module name should be precisely the same as the example, with only the first letter of the first word capitalized. The link to your Colab notebook should be pasted in the email body.
 - You will receive an email reply titled `Receipt of submission` about 30 minutes after your submission email has been sent. This email will notify you whether your files have been successfully uploaded.
 - Please contact `Amanda Lin #5919` or `Ki#1892` on Discord if your submission email keeps failing.
 
