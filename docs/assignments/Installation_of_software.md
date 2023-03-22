@@ -9,9 +9,7 @@ nav_exclude: true
 
 ## Description:
 
-- This exercise is a copy from [Brainkhack School](https://school.brainhackmtl.org/modules/datalad/), but have small adaptation and change the recipient.
-- You will follow the tutorial in [Brainhack school DataLad module material](https://school.brainhackmtl.org/modules/datalad/).
-- Follow the instruction and save the outputs from `datalad status`, and submit these outputs to TA.
+- This exercise is a copy from [Brainkhack School](https://school.brainhackmtl.org/modules/installation/), but have small adaptation and change the recipient.
 
 ## Instructions:
 
