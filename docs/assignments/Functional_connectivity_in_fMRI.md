@@ -15,7 +15,7 @@ nav_exclude: true
 
 ## Instructions:
 
--	Watch the video and download [the notebook](https://raw.githubusercontent.com/brainhackorg/school/master/content/en/modules/fmri_connectivity/BHS_fMRI_connectivity.ipynb).
+-	Watch the video and download [the notebook](https://github.com/school-brainhack/school-brainhack.github.io/blob/main/content/en/modules/fmri_connectivity/BHS_fMRI_connectivity.ipynb).
 -	Please follow the tutorial and run the code in a Colab notebook or Jupyter notebook file.
 
 
