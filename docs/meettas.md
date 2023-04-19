@@ -60,6 +60,12 @@ For my experience in data analysis, I primarily analyze my experimental EEG/ERP 
 - Affiliation: National Taiwan University (Linguistics)
 - E-mail: chuangyun at ntu.edu.tw
 
+I received a M.A. in Linguistics at NTU, with Neurobiology and Cognitive Science Program completed. My thesis focused on how syntactic,
+ semantic, and thematic processing share similar cognitive-neural underpinnings. I‘ve also participated in projects examine lexical ambiguity resolution in young and functional older adults, measured by MEG and EEG. I lead a research on whether language prediction
+ would be boosted by emotion mechanisms as well. 
+
+臺大語言學碩士，通過神經認知與認知科學學程，主修神經語言學。碩士論文旨在探討語法、語意和論旨角色顛置處理的認知神經機制。目前的研究為以腦磁波測量母語者如何處理臺灣華語之歧意詞，並用腦電波量測此種處理如何被老化所影響；亦以腦電波資料探究語言預測是否會被情緒機制影響。
+
 ---
 
 # Amanda Lin
