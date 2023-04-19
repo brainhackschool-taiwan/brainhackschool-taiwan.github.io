@@ -19,7 +19,7 @@ From 2012 to 2020, I worked at Mind Research and Imaging Center (MRI center) at 
 - Affiliation: National Central University
 - E-mail: kireiyvette at gmail.com
 
-![RuoChiYao](../../assets/tas/RuoChiYao.pdf)
+![RuoChiYao](../../assets/tas/RuoChiYao.jpg)
 
 ---
 
@@ -74,6 +74,7 @@ For more info, please visit [my repo](https://github.com/amandalin047/about_me)
 - E-mail: yushiangsu at gmail.com
 
 ![YuShiangSu](../../assets/tas/YuShiangSu.jpg)
+
 Reseach interests and skills: value-based decision-making, learning, conceptual knowledge, task-based fMRI, resting-state fMRI, computational modelling
 
 ---

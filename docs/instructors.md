@@ -25,7 +25,7 @@ This year, we are excited to announce the launch of the Brainhack School Taiwan 
 
 | Name            | Affiliation                 | Email                     |
 |:----------------|:---------------------------:|:--------------------------|
-| Ding-Ruey Yeh   | National Central University | dingruey.yeh at gmail.com |
+| (Ding-Ruey Yeh)[{% link docs/meettas.md#yeh-ding-ruey %}]   | National Central University | dingruey.yeh at gmail.com |
 | Ruo-Chi Yao     | National Central University | kireiyvette at gmail.com  |
 | Chih-Chia Hsing | National Taiwan University  | r08454015 at ntu.edu.tw   |
 | Yun-Han Hsu     | National Taiwan University  | r09142006 at ntu.edu.tw   |
