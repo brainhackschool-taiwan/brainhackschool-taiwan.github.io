@@ -11,6 +11,7 @@ nav_exclude: true
 - Discord: 
 
 From 2012 to 2020, I worked at Mind Research and Imaging Center (MRI center) at National Cheng Kung University (NCKU). During this period, I conducted many brain imaging studies and published several papers/posters in conferences regarding multi-model approaches, including functional magnetic resonance imaging (fMRI), resting-state fMRI and magnetic resonance spectroscopy (MRS). Also, I successfully organized some mini-workshops on fMRI studies introducing experiment designs and data analyses. On the national level, I have represented the MRI center to publish research findings in international annual meetings several times. I have always been self-motivated, resourceful and willing to motivate group members. Currently, I am in my third year of PhD at the Institute of Cognitive Neuroscience (ICN), National Central University (NCU). In the first year, my team and I were dedicated to understanding the neural mechanisms of motor control and attentional orienting by using a grip force transducer and electroencephalography (EEG). In the 2nd year, I incorporated noninvasive brain stimulation such as oscillation transcranial direct current stimulation (otDCS) and transcranial alternating current stimulation (tACS) into my research focused on predicting phosphene-perception. In order to stimulate the brain area more accurately on different individuals, I aim to learn about the brainsight neuronavigation system, which requires some knowledge in MRI and head modeling, for the next year. My long-term goal is to combine otDCS/ tACS, EEG, fMRI and MRS for researching conscious studies.
+
 [researchgate](https://www.researchgate.net/profile/Ding-Ruey-Yeh-2)
 
 ---
@@ -75,6 +76,6 @@ For more info, please visit [my repo](https://github.com/amandalin047/about_me)
 
 ![YuShiangSu](../../assets/tas/YuShiangSu.jpg)
 
-Reseach interests and skills: value-based decision-making, learning, conceptual knowledge, task-based fMRI, resting-state fMRI, computational modelling
+Reseach interests and skills: value-based decision-making, learning, conceptual knowledge, cognitive aging, task-based fMRI, resting-state fMRI, computational modelling
 
 ---
