@@ -25,14 +25,14 @@ This year, we are excited to announce the launch of the Brainhack School Taiwan 
 
 | Name            | Affiliation                 | Email                     |
 |:----------------|:---------------------------:|:--------------------------|
-| (Ding-Ruey Yeh)[{% link docs/meettas.md#yeh-ding-ruey %}]   | National Central University | dingruey.yeh at gmail.com |
-| Ruo-Chi Yao     | National Central University | kireiyvette at gmail.com  |
-| Chih-Chia Hsing | National Taiwan University  | r08454015 at ntu.edu.tw   |
-| Yun-Han Hsu     | National Taiwan University  | r09142006 at ntu.edu.tw   |
-| Po-Hsuan Huang  | National Taiwan University  | r09142003 at ntu.edu.tw   |
-| Yun Chuang      | National Taiwan University  | chuangyun at ntu.edu.tw   |
-| Amanda Lin      | National Taiwan University  | r11142002 at ntu.edu.tw   |
-| Yu-Shiang Su    | National Taiwan University  | yushiangsu at gmail.com   |
+| (Ding-Ruey Yeh)[https://brainhackschool-taiwan.github.io/docs/meettas.html#yeh-ding-ruey]   | National Central University | dingruey.yeh at gmail.com |
+| (Ruo-Chi Yao)[https://brainhackschool-taiwan.github.io/docs/meettas.html#ruo-chi-yao]     | National Central University | kireiyvette at gmail.com  |
+| (Chih-Chia Hsing)[https://brainhackschool-taiwan.github.io/docs/meettas.html#chih-chia-hsing] | National Taiwan University  | r08454015 at ntu.edu.tw   |
+| (Yun-Han Hsu)[https://brainhackschool-taiwan.github.io/docs/meettas.html#yun-han-hsu]     | National Taiwan University  | r09142006 at ntu.edu.tw   |
+| (Po-Hsuan Huang)[https://peh-suan.github.io/]  | National Taiwan University  | r09142003 at ntu.edu.tw   |
+| (Yun Chuang)[https://brainhackschool-taiwan.github.io/docs/meettas.html#yun-chuang]      | National Taiwan University  | chuangyun at ntu.edu.tw   |
+| (Amanda Lin)[https://github.com/amandalin047/about_me]      | National Taiwan University  | r11142002 at ntu.edu.tw   |
+| (Yu-Shiang Su)[https://brainhackschool-taiwan.github.io/docs/meettas.html#yu-shiang-su]    | National Taiwan University  | yushiangsu at gmail.com   |
 
 ---
 

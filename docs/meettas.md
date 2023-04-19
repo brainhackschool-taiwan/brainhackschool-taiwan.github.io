@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meet TAs
-parent: Modules
+parent: Instructors
 nav_exclude: true
 ---
 
