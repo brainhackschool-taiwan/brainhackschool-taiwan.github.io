@@ -9,8 +9,8 @@ nav_exclude: true
 
 ## Description:
 
-- This exercise is a copy from [Brainkhack School](https://school.brainhackmtl.org/modules/project_management/), with small adaptations and changes in the recipient.
-- This exercise is basically identical to that of [BrainHack School 2022](https://school.brainhackmtl.org/modules/project_management/).
+- This exercise is a copy from [Brainkhack School](https://school-brainhack.github.io/modules/project_management/), with small adaptations and changes in the recipient.
+- This exercise is basically identical to that of [BrainHack School 2022](https://school-brainhack.github.io/modules/project_management/).
 - There are two parts to this assignment. While the first part is mandatory for you to get your credits, the second part is optional.
 
 ## Instructions:
@@ -19,7 +19,7 @@ nav_exclude: true
 - Fill up this [Google Form](https://forms.gle/umip1TtDfvXnx1qn8) to submit your answers to part 1. You may download [this file](https://drive.google.com/file/d/1sOAB81thB5e5Y2vfCPwcfgnX3L6lpcju/view?usp=share_link) to prepare your answers somewhere else ahead.
 
 ### Part 2: Create a project template for your BrainHack School project (Optional)
-- Follow the instructions in the [module](https://school.brainhackmtl.org/modules/project_management/).
+- Follow the instructions in the [module](https://school-brainhack.github.io/modules/project_management/).
 
 ## Submission:
 - Follow up with Chih-Chia Hsing through the following methods:

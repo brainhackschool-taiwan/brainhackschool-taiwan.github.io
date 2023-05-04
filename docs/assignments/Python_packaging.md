@@ -10,7 +10,7 @@ nav_exclude: true
 ## Description:
 
 - The design of this exercise is to help you package a module that your final project can be built around.
-- Please refer to [BrainHack School 2022](https://school.brainhackmtl.org/modules/packaging/), [PyPA](https://packaging.python.org/en/latest/tutorials/packaging-projects/), and [tutorialspoint](https://www.tutorialspoint.com/python/python_modules.htm) for more information about how to package Python modules.
+- Please refer to [BrainHack School 2023](https://school-brainhack.github.io/modules/packaging/), [PyPA](https://packaging.python.org/en/latest/tutorials/packaging-projects/), and [tutorialspoint](https://www.tutorialspoint.com/python/python_modules.htm) for more information about how to package Python modules.
 
 ## Instructions:
 

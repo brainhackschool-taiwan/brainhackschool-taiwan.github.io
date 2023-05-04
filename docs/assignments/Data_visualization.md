@@ -9,7 +9,7 @@ nav_exclude: true
 
 ## Description:
 
-- This exercise is a copy from [BrainHack School](https://school.brainhackmtl.org/modules/python_visualization/).
+- This exercise is a copy from [BrainHack School](https://school-brainhack.github.io/modules/python_visualization/).
 - The purpose of this assignment is to ensure that you've become familiarized with basics of plotting in python with some of most commonly used packages, which will come in handy when you're working on your own projects!
 
 ## Instructions:

@@ -15,7 +15,7 @@ nav_exclude: true
 ## Instructions:
 
 - Again, please note that the hands-on tutorial in this module is not accessible in Taiwan. We don’t recommend to complete this module for beginners. If you’re very interesting on high-performance computing, you can still grasp a concept of high performance computing in this module.
-- Go to the [module page](https://school.brainhackmtl.org/modules/hpc/) and watch the video.
+- Go to the [module page](https://school-brainhack.github.io/modules/hpc/) and watch the video.
 - Copy and paste the following question in a text file (`*.txt`, `*.md`) or Mircosoft Word (`*.docx`). 
 
 ```

@@ -9,7 +9,7 @@ nav_exclude: true
 
 ## Description:
 
--	This exercise is a copy from [Brainkhack School](https://school.brainhackmtl.org/modules/fmri_parcellation/), but have small adaptation and change the recipient.
+-	This exercise is a copy from [Brainkhack School](https://school-brainhack.github.io/modules/fmri_parcellation/), but have small adaptation and change the recipient.
 -	This exercise seems unrelated to the video clip in this module, but idea of fMRI Parcellation application is the same. "The objectives of this module are to: 
 	1. Understand the basis of the signal used in functional magnetic resonance imaging. 
 	2. Know the main steps of preprocessing fMRI data. 

@@ -9,7 +9,7 @@ nav_exclude: true
 
 ## Description:
 
-- This exercise is a copy from [Brainkhack School-Introduction to deep learning](https://school.brainhackmtl.org/modules/deep_learning_intro/), but have small adaptation and change the recipient.
+- This exercise is a copy from [Brainkhack School-Introduction to deep learning](https://school-brainhack.github.io/modules/deep_learning_intro/), but have small adaptation and change the recipient.
 - The objectives of this module are to learn some fundamentals of using deep learning for neuroscience.
 - Follow the steps in submission and hand in your assignment to TA.
 

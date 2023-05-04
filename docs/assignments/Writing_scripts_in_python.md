@@ -9,7 +9,7 @@ nav_exclude: true
 
 ## Description:
 
-- This exercise is pretty much identical to that of [BrainHack School 2022](https://school.brainhackmtl.org/modules/python_scripts/), with some parts of the decsriptions revised/modified to hopefully make the instructions clearer. The crux of this assignment is to implement the `argparse` module in Python, which is an easy way to write user-friendly command-line interfaces and has a wide variety of applications. Please carefully read the background information in the next section.
+- This exercise is pretty much identical to that of [BrainHack School 2022](https://school-brainhack.github.io/modules/python_scripts/), with some parts of the decsriptions revised/modified to hopefully make the instructions clearer. The crux of this assignment is to implement the `argparse` module in Python, which is an easy way to write user-friendly command-line interfaces and has a wide variety of applications. Please carefully read the background information in the next section.
 
 ## Background Info
 - We'll be programming a key-based encryption and decryption system that is an adapted version of the Vigenère cipher: instead of using the 26 letters of the English alphabet, we'll be using all the unicode characters.

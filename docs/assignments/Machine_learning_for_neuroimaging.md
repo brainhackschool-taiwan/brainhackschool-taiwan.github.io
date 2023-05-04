@@ -9,8 +9,8 @@ nav_exclude: true
 
 ## Description:
 
-- This exercise is related to the video clip in this module from [Brainkhack School-Machine learning for neuroimaging](https://school.brainhackmtl.org/modules/machine_learning_neuroimaging/).
-- After learning the basic concepts in the module- [Introduction to deep learning](https://school.brainhackmtl.org/modules/machine_learning_basics/), you will apply basic machine learning for neuroimaging. 
+- This exercise is related to the video clip in this module from [Brainkhack School-Machine learning for neuroimaging](https://school-brainhack.github.io/modules/machine_learning_neuroimaging/).
+- After learning the basic concepts in the module- [Introduction to deep learning](https://school-brainhack.github.io/modules/machine_learning_basics/), you will apply basic machine learning for neuroimaging. 
 - Follow the steps in submission and hand in your assignment to TA.
 
 

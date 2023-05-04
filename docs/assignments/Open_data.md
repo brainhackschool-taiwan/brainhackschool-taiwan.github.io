@@ -9,7 +9,7 @@ nav_exclude: true
 
 ## Description:
 
-- This exercise is a copy from [Brainkhack School](https://school.brainhackmtl.org/modules/open_data/), with small adaptations and changes in the recipient.
+- This exercise is a copy from [Brainkhack School](https://school-brainhack.github.io/modules/open_data/), with small adaptations and changes in the recipient.
 
 ## Instructions:
 

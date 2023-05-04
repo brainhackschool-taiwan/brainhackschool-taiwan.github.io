@@ -9,7 +9,7 @@ nav_exclude: true
 
 ## Description:
 
-- This exercise is a copy from [Brainkhack School](https://school.brainhackmtl.org/modules/dl_for_neuroimaging/), but have small adaptation and change the recipient.
+- This exercise is a copy from [Brainkhack School](https://school-brainhack.github.io/modules/dl_for_neuroimaging/), but have small adaptation and change the recipient.
 - This exercise seems unrelated to the video clip in this module, but idea of deep learning application is the same. We would learn how to apply basic machine learning and deep learning decoding on fMRI data. 
 - You will follow the tutorial in [MAIN educational workshop](https://main-educational.github.io/brain_encoding_decoding/intro.html) and complete the exercises in [Brain decoding with SVM](https://main-educational.github.io/brain_encoding_decoding/svm_decoding.html) and [Brain decoding with MLP](https://main-educational.github.io/brain_encoding_decoding/mlp_decoding.html)  as Jupyter notebook files.
 - Follow the steps in submission and hand in your assignment to TA.

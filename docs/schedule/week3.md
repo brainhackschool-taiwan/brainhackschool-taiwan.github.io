@@ -11,4 +11,4 @@ nav_order: 4
 {: .label .label-yellow }
 To be determined
 
-but you can check the [Schedule in previous year](https://school.brainhackmtl.org/schedule/).
+but you can check the [Schedule in previous year](https://school-brainhack.github.io/schedule/).

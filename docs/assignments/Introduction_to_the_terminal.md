@@ -9,13 +9,13 @@ nav_exclude: true
 
 ## Description:
 
-- This exercise is a copy from [Brainkhack School: A brief introduction to the bash shell](https://school.brainhackmtl.org/modules/introduction_to_terminal/).
+- This exercise is a copy from [Brainkhack School: A brief introduction to the bash shell](https://school-brainhack.github.io/modules/introduction_to_terminal/).
 
 - This exercise aims to help you get familiar with the basic concepts and commands of command line terminal.
 
 ## Instructions:
 
-- Please finish the tutorials in [that webpage](https://school.brainhackmtl.org/modules/introduction_to_terminal/).
+- Please finish the tutorials in [that webpage](https://school-brainhack.github.io/modules/introduction_to_terminal/).
 
 ## Submission:
 

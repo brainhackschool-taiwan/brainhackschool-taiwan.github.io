@@ -5,7 +5,7 @@ nav_order: 8
 ---
 
 # Brainhack school
-[Brainhack school website](https://school.brainhackmtl.org/)
+[Brainhack school website](https://school-brainhack.github.io/)
 
 # Open Data
 [NeuroVault](https://neurovault.org/)

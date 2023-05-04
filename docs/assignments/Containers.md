@@ -9,7 +9,7 @@ nav_exclude: true
 
 ## Description:
 
-- This exercise is a copy from [Brainkhack School](https://school.brainhackmtl.org/modules/containers/).
+- This exercise is a copy from [Brainkhack School](https://school-brainhack.github.io/modules/containers/).
 - Follow the instruction and submit your assignment to TAs.
 
 ## Instructions:

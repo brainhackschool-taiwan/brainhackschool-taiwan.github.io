@@ -129,12 +129,12 @@ Microsoft create their own terminal application in recent year. It will provide 
 ---
 
 ## VSCode
-Please follow [Brainhack School installation guide](https://school.brainhackmtl.org/modules/installation/) to set up VSCode.
+Please follow [Brainhack School installation guide](https://school-brainhack.github.io/modules/installation/) to set up VSCode.
 
 ---
 
 ## Python
-Please follow [Brainhack School installation guide](https://school.brainhackmtl.org/modules/installation/) to set up Python.
+Please follow [Brainhack School installation guide](https://school-brainhack.github.io/modules/installation/) to set up Python.
 
 ---
 

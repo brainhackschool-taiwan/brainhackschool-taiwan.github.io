@@ -9,7 +9,7 @@ nav_exclude: true
 
 ## Description:
 
-- Most of this exercise is identical to that of [BrainHack School 2022](https://school.brainhackmtl.org/modules/python_data_analysis/). The purpose of this assignment is to ensure that you're equipped with the basic skills to analyze data in Python.
+- Most of this exercise is identical to that of [BrainHack School 2023](https://school-brainhack.github.io/modules/python_data_analysis/). The purpose of this assignment is to ensure that you're equipped with the basic skills to analyze data in Python.
 
 ## Instructions:
 

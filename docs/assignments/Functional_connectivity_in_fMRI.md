@@ -9,7 +9,7 @@ nav_exclude: true
 
 ## Description:
 
--	This exercise is a copy from [Brainkhack School](https://school.brainhackmtl.org/modules/fmri_connectivity/), but have small adaptation and change the recipient.
+-	This exercise is a copy from [Brainkhack School](https://school-brainhack.github.io/modules/fmri_connectivity/), but have small adaptation and change the recipient.
 -	"An introduction to fMRI data: the captured signal, the main steps of preprocessing and how functional connectivity is calculated."
 -	Follow the steps in submission and hand in your assignment to TA.
 

@@ -10,7 +10,7 @@ nav_exclude: true
 ## Description:
 
 - **Please bear in mind that this Introduction to git and github module is MANDATORY, so you are required to submit an assignment following the guidelines laid out below**.
-- Most of this exercise is identical to that of [BrainHack School 2022](https://school.brainhackmtl.org/modules/git_github/). The purpose of this assignment is to ensure that you've become familiarized with basic git commands and putting projects on git control, which will come in handy when you're working on your own projects!
+- Most of this exercise is identical to that of [BrainHack School 2023](https://school-brainhack.github.io/modules/git_github/). The purpose of this assignment is to ensure that you've become familiarized with basic git commands and putting projects on git control, which will come in handy when you're working on your own projects!
 
 ## Instructions:
 
