@@ -51,9 +51,9 @@ You will be required to complete **3 modules** out of the following list:
 | [Functional parcellations in fMRI](https://school-brainhack.github.io/modules/fmri_parcellation)              | [Exercise]({% link docs/assignments/Functional_parcellations_in_fMRI.md %})                  | Ding-Ruey Yeh                         |
 | [The Brain Imaging Data Structure (BIDS) ecosystem](https://school-brainhack.github.io/modules/bids)          | [Exercise]({% link docs/assignments/BIDS.md %})                                              | Chih-Chia Hsing                       |
 | [DataLad for reproducible research data management](https://school-brainhack.github.io/modules/datalad)       | [Exercise]({% link docs/assignments/DataLad_for_reproducible_research_data_management.md %}) | Yu-Shiang Su                          |
-| [Working with MNE-Python and EEG-BIDS](https://school-brainhack.github.io/modules/mne_python/)                | TBD              | Amanda Lin                            |
-| [Introduction to dMRI](https://school-brainhack.github.io/modules/dmri_intro/)                                | [Exercise]({% link docs/assignments/Introduction_to_dMRI.md %})                              | Yu-Shiang Su                          |
+| [Working with MNE-Python and EEG-BIDS](https://school-brainhack.github.io/modules/mne_python/)                | [Exercise]({% link docs/assignments/Working_with_mne_python_and_eeg_bids.md %})              | Amanda Lin                            |
 | [Neuroimaging data and file structures in Python](https://school-brainhack.github.io/modules/nibabel/)        | [Exercise]({% link docs/assignments/Neuroimaging_data_and_file_structures_in_python.md %})   | Yu-Shiang Su                          |
+| [Introduction to dMRI](https://school-brainhack.github.io/modules/dmri_intro/)                                | [Exercise]({% link docs/assignments/Introduction_to_dMRI.md %})                              | Yu-Shiang Su                          |
 
 ---
 
