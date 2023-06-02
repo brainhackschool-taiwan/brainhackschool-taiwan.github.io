@@ -15,7 +15,7 @@ nav_order: 5
 
 ---
 
-# Github Project Submission Guide
+# Project Submission Guide
 To submit your project, you should (1) upload your slides of wrap-up presentation, and have (2) a public repository that contains your deliverables, such as code and report (or Jupyter notebook). Then, you should (3) prepare a introductory page and send a pull request to [Brainhack School project pages](https://school-brainhack.github.io/project/).
 
 ## Step 1: Upload your slides
