@@ -22,7 +22,7 @@ To submit your project, you should (1) upload your slides of wrap-up presentatio
 Please upload your slides [here](https://drive.google.com/drive/folders/1Z2g5syGnWE78hniOtdqsTUnWDvIikqBF)
 
 ## Step 2: Prepare a public repository on Github for your project
-1. On your Github, create a public repository named `<your_name>_project`, and initialize with a `README` and `LICENSE` file. (You should already did this step in Git and Github module.)
+1. On your Github, create a public repository named `<your_name>_project`, and initialize with a `README` and `LICENSE` file. (You already did this step in Git and Github module.)
 
 2. Clone your remote repository to your local drive. For example, I would like to clone the files on the repository to my `Documents` folder under home directory, I can type the following code in terminal. Then, I shall found the files under `~/Documents/<your_name>_project`.
    ```
