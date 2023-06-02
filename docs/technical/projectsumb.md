@@ -45,7 +45,7 @@ Please upload your slides [here](https://drive.google.com/drive/folders/1Z2g5syG
 
 5. Check your repository, you should find that all your deliverables were uploaded and `README.md` was updated. 
 
-6. Fill a [form](https://docs.google.com/forms/d/e/1FAIpQLSc2En-59xbMBQSsNlu5KlupqdGZ5Wgt5j-evH9P7ttzeWQBSw/viewform) here to let us know you the link for your repository and slides, we will evaluate your performance accordingly.
+6. Fill a [form](https://docs.google.com/forms/d/e/1FAIpQLSc2En-59xbMBQSsNlu5KlupqdGZ5Wgt5j-evH9P7ttzeWQBSw/viewform) here to let us know the links for your repository and slides, we will evaluate your performance accordingly.
 
 ## Step 3: Fork the website and send a pull request for your project
 1. Go to the [Github repository for Brainhack School website](https://github.com/school-brainhack/school-brainhack.github.io). Click the `Fork` on the page to fork this repository to your account.
