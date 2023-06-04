@@ -45,7 +45,7 @@ Please upload your slides [here](https://drive.google.com/drive/folders/1Z2g5syG
 
 5. Check your repository, you should find that all your deliverables were uploaded and `README.md` was updated. 
 
-6. Fill a [form](https://docs.google.com/forms/d/e/1FAIpQLSc2En-59xbMBQSsNlu5KlupqdGZ5Wgt5j-evH9P7ttzeWQBSw/viewform) here to let us know the links for your repository and slides, we will evaluate your performance accordingly.
+6. Please fill a [form](https://docs.google.com/forms/d/e/1FAIpQLSc2En-59xbMBQSsNlu5KlupqdGZ5Wgt5j-evH9P7ttzeWQBSw/viewform) here to let us know the links for your repository and slides, we will evaluate your performance accordingly.
 
 ## Step 3: Fork the website and send a pull request for your project
 1. Go to the [Github repository for Brainhack School website](https://github.com/school-brainhack/school-brainhack.github.io). Click the `Fork` on the page to fork this repository to your account.
@@ -68,7 +68,7 @@ Please upload your slides [here](https://drive.google.com/drive/folders/1Z2g5syG
 5. In the `school-brainhack.github.io` folder, navigate to `school-brainhack.github.io/content/en/project`
    ![](../../assets/submission/subm4.png)
 
-6. Create a folder for your project, then copy your `README.md` (and your figure files if you embedded in README) to the folder. Importantly, please **rename the `README.md` to `index.md`.**
+6. Create a folder for your project. The folder name should not have space! You should replace any space to `_`. Then, copy your `README.md` (and your figure files if you embedded in README) to the folder. Importantly, please **rename the `README.md` to `index.md`.**
    ![](../../assets/submission/subm5.png)
 
 7. Stage, commit and push to your forked repository.
